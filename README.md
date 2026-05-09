@@ -30,7 +30,6 @@ It allows users to manage their daily expenses efficiently by adding, viewing, u
 ---
 
 
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -42,7 +41,7 @@ It allows users to manage their daily expenses efficiently by adding, viewing, u
 - JavaScript
 
 ### Backend
-- Java (Servlets)
+- Java
 - JDBC
 - JSP
 - Servlets
@@ -54,15 +53,16 @@ It allows users to manage their daily expenses efficiently by adding, viewing, u
 - MySQL
 
 ### Server
+
 - Apache Tomcat 10+
 
-
 ---
+
 ## 📁 Project Structure
 
 ---
 
-<img width="891" height="606" alt="image" src="https://github.com/user-attachments/assets/b33a3481-d6c3-45bc-827e-f000805d53a1" />
+[project structure](<img width="891" height="606" alt="image" src="https://github.com/user-attachments/assets/b33a3481-d6c3-45bc-827e-f000805d53a1" />)
 
 
 ---
