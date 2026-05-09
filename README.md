@@ -37,10 +37,18 @@ It allows users to manage their daily expenses efficiently by adding, viewing, u
 - HTML
 - CSS
 - JSP (Java Server Pages)
+- HTML5
+- CSS3
+- JavaScript
 
 ### Backend
 - Java (Servlets)
 - JDBC
+- JSP
+- Servlets
+- Hibernate ORM / JPA
+- Maven
+- BCrypt
 
 ### Database
 - MySQL
