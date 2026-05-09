@@ -116,27 +116,32 @@ http://localhost:8080/myproject
 
 ## 📷 Screenshots
 
-- Register Page
+### Register Page
 
 <img width="1380" height="923" alt="image" src="https://github.com/user-attachments/assets/dd3230e8-faed-45e4-8d5e-09833f1881dc" />
 
+---
+
 <img width="1209" height="901" alt="image" src="https://github.com/user-attachments/assets/bf19541a-7f17-4c73-baad-a964ef839cdd" />
+
+---
 
 <img width="1404" height="353" alt="image" src="https://github.com/user-attachments/assets/cda75118-286b-4f99-b761-b0d5f26eabdd" />
 
+---
 
-- Login Page
-- 
+### Login Page
+
 <img width="1435" height="827" alt="image" src="https://github.com/user-attachments/assets/0a683e35-fad2-4bb4-b440-3482e50104d8" />
 
 
-- Reset Password
+### Reset Password
 
 <img width="1365" height="757" alt="image" src="https://github.com/user-attachments/assets/4ce4a4aa-bdb2-4270-b3c8-94257a608e18" />
 <img width="1112" height="806" alt="image" src="https://github.com/user-attachments/assets/653cd0ec-b3c4-440a-a6ce-1ef6fc44df37" />
 
 
-- Dashboard Page
+### Dashboard Page
 
 <img width="1915" height="923" alt="image" src="https://github.com/user-attachments/assets/534dfdb7-4ca0-448b-adb4-80c8b954307b" />
 <img width="1890" height="917" alt="image" src="https://github.com/user-attachments/assets/45ddfea9-e985-4316-8d08-416eb736f274" />
@@ -144,7 +149,7 @@ http://localhost:8080/myproject
 
 
 
-- Expense List Page  
+### Expense List Page  
 
 
 
